@@ -4,5 +4,5 @@
 
 ## Содержание
 
-1. [Страница с таблицей зачисления в магистратуру](#страница-с-таблицей-зачисления-в-магистратуру)
-2. [Страница с таблицей продукции](#страница-с-таблицей-продукции)
+1. ![Страница с таблицей зачисления в магистратуру](https://github.com/SJana0/testCreatingTables/blob/main/project/preview1.png)
+2. ![Страница с таблицей продукции](https://github.com/SJana0/testCreatingTables/blob/main/project/preview1.png)
